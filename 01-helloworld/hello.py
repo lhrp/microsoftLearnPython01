@@ -1,0 +1,1 @@
+print("Começando com o respeitável Hello World!")
